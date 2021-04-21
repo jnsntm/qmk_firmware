@@ -31,8 +31,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MATRIX_COLS 3
 
 /* Keyboard Matrix Assignments */
-#define MATRIX_ROW_PINS { A0, A1, A2 }
-#define MATRIX_COL_PINS { B0, B1, B2 }
+#define MATRIX_ROW_PINS { F5, F4, F1 }
+#define MATRIX_COL_PINS { D6, D2, D1 }
 #define UNUSED_PINS
 
 /* COL2ROW, ROW2COL*/
